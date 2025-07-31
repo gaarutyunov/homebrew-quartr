@@ -1,8 +1,8 @@
 class QuartrMcpServer < Formula
   desc "MCP server for Quartr API providing financial data and company information"
   homepage "https://github.com/gaarutyunov/quartr-mcp"
-  url "https://github.com/gaarutyunov/quartr-mcp/archive/v1.0.0.tar.gz"
-  sha256 ""
+  url "https://github.com/gaarutyunov/quartr-mcp/archive/v1.0.1.tar.gz"
+  sha256 "5502020d2f91cd38fb415bfe8ac7064e7b6cba28c5460122a19757b05003bc2f"
   license "MIT"
   head "https://github.com/gaarutyunov/quartr-mcp.git", branch: "main"
 
